@@ -1,2 +1,2 @@
-# Hello-world-P2-20220909
+# Hello-world
 Idk wth is this tho
